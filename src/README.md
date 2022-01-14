@@ -1,0 +1,1 @@
+## This repositary contains a Spring boot application done for practicing.
